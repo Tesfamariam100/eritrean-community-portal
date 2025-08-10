@@ -1,0 +1,42 @@
+{
+  "en": {
+    "brand": "Eritrean Community Portal",
+    "nav_home": "Home",
+    "nav_news": "News",
+    "nav_guides": "Integration Guides",
+    "nav_culture": "Culture & Language",
+    "nav_directory": "Business Directory",
+    "nav_about": "About",
+    "nav_contact": "Contact",
+    "hero_title": "Connecting Eritreans worldwide",
+    "hero_sub": "Bilingual, mobile-friendly resources for diaspora and communities back home.",
+    "cta_add_business": "Add your business",
+    "cta_view_events": "View events",
+    "section_news": "Latest News & Announcements",
+    "section_guides": "Newcomer Integration Guides",
+    "section_culture": "Culture & Language Corner",
+    "section_directory": "Business & Services",
+    "footer_note": "Built with love for the Eritrean community. Lightweight and open source.",
+    "search_placeholder": "Search resources..."
+  },
+  "ti": {
+    "brand": "መሪሕ ማሕበራዊ ማዕከል ኤርትራ",
+    "nav_home": "መእተዊ",
+    "nav_news": "መረቕታት",
+    "nav_guides": "መምርሒ ምእታው ናብ ህይወት ጽድቕ",
+    "nav_culture": "ባህሊ ንህላዊ ቋንቋ",
+    "nav_directory": "ስራሕ ንቕሓት ዝተዘርዝሩ",
+    "nav_about": "ብዛዕባና",
+    "nav_contact": "ርኸብና",
+    "hero_title": "ኤርትራውያን ብዓለም ክንሳተፍ",
+    "hero_sub": "ብኣብሓት ቋንቋ ንዲያስፖራ ከምኡውን ንህዝቢ ገዛእ ዝስሩሕ መረዳእታ እና መምርሒ.",
+    "cta_add_business": "ስራሕካ ወስኽ",
+    "cta_view_events": "ክስተታት ተመልከት",
+    "section_news": "መረቕታት እና ሓበሬታ",
+    "section_guides": "መምርሒ ንመጻኢ ሰባት",
+    "section_culture": "ባህሊ እና ቋንቋ",
+    "section_directory": "ስራሕ እና ኣገልግሎት",
+    "footer_note": "ብፍቓድ ንማሕበረ ኤርትራ ተሰሪሑ ፡ ቀሊል ዳታ እና ክፉት ምንጭ.",
+    "search_placeholder": "ተኣማሚ መረዳእታ ድለ..."
+  }
+}
