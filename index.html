@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-i18n="brand">Eritrean Community Portal</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script defer src="assets/js/lang.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div class="container topbar">
+      <div class="brand" data-i18n="brand">Eritrean Community Portal</div>
+      <nav class="nav">
+        <a href="index.html" data-i18n="nav_home">Home</a>
+        <a href="pages/news.html" data-i18n="nav_news">News</a>
+        <a href="pages/guides.html" data-i18n="nav_guides">Integration Guides</a>
+        <a href="pages/culture.html" data-i18n="nav_culture">Culture & Language</a>
+        <a href="pages/directory.html" data-i18n="nav_directory">Business Directory</a>
+        <a href="pages/events.html">Events</a>
+        <a href="pages/converter.html">Converter</a>
+        <a href="pages/about.html" data-i18n="nav_about">About</a>
+        <a href="pages/contact.html" data-i18n="nav_contact">Contact</a>
+      </nav>
+      <div class="lang-switch">
+        <a href="#" data-action="lang-en">EN</a>
+        <a href="#" data-action="lang-ti">TI</a>
+      </div>
+    </div>
+  </header>
+  <main class="container">
+
+<section class="hero card">
+  <h1 data-i18n="hero_title">Connecting Eritreans worldwide</h1>
+  <p class="small" data-i18n="hero_sub">Bilingual, mobile-friendly resources for diaspora and communities back home.</p>
+  <div style="display:flex; gap:.5rem; flex-wrap:wrap;">
+    <a class="badge" href="pages/directory.html" data-i18n="cta_add_business">Add your business</a>
+    <a class="badge" href="pages/events.html" data-i18n="cta_view_events">View events</a>
+  </div>
+</section>
+
+<section class="grid grid-3">
+  <article class="card">
+    <h3 data-i18n="section_news">Latest News & Announcements</h3>
+    <p class="small">Post short updates or link to trusted sources. Keep items very lightweight.</p>
+    <a href="pages/news.html">Open</a>
+  </article>
+  <article class="card">
+    <h3 data-i18n="section_guides">Newcomer Integration Guides</h3>
+    <p class="small">Share PDFs in Tigrinya & English: housing, healthcare, jobs, schools.</p>
+    <a href="pages/guides.html">Open</a>
+  </article>
+  <article class="card">
+    <h3 data-i18n="section_culture">Culture & Language Corner</h3>
+    <p class="small">Tigrinya alphabet, phrases with audio, stories, recipes.</p>
+    <a href="pages/culture.html">Open</a>
+  </article>
+</section>
+
+<section class="card">
+  <h3 data-i18n="section_directory">Business & Services</h3>
+  <input type="search" placeholder="Search resources..." data-i18n="search_placeholder" style="width:100%; margin:.5rem 0;">
+  <ul class="small">
+    <li>Lawyer — Toronto, Canada</li>
+    <li>Real Estate Agent — Dallas, USA</li>
+    <li>Translator — Frankfurt, Germany</li>
+  </ul>
+  <p class="notice small">Tip: Use Google Forms for “Add your business” and review entries before publishing.</p>
+</section>
+
+<section class="card">
+  <h3>Calendar Converter</h3>
+  <p class="small">Convert between Geʿez (Ethiopian) and Gregorian dates. Works offline after first load.</p>
+  <a class="badge" href="pages/converter.html">Open Converter</a>
+</section>
+
+  </main>
+  <footer class="footer">
+    <div class="container small" data-i18n="footer_note">Built with love for the Eritrean community. Lightweight and open source.</div>
+  </footer>
+</body>
+</html>
